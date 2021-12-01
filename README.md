@@ -1,4 +1,4 @@
-### Hello! 
+### Welcome! 
 
 ### My name is Emily Corcoran, and I am currently a Front End Engineering Student at the Turing School of Software and Design
 
