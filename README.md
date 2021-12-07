@@ -2,6 +2,8 @@
 
 ### My name is Emily Corcoran, and I am currently a Front End Engineering Student at the Turing School of Software and Design
 
+[![Emily's github stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=aura)](https://github.com/emily-cathleen/github-readme-stats)
+
 #### Technologies
 <p style="text-align:center;">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
