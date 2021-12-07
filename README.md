@@ -2,7 +2,7 @@
 
 ### My name is Emily Corcoran, and I am currently a Front End Engineering Student at the Turing School of Software and Design
 
-[![Emily's github stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=cobalt)](https://github.com/emily-cathleen/github-readme-stats)
+[![Emily's github stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=tokyonight)](https://github.com/emily-cathleen/github-readme-stats)
 
 #### Technologies
 <p style="text-align:center;">
