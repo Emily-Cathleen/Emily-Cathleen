@@ -23,7 +23,7 @@
 
 
 ## Languages || Frameworks
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight">
+<img align="right" width="300" src=>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
