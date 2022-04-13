@@ -12,7 +12,7 @@
         <li>Former school teacher turned yurt enthusiast 🛖 🏕</li>
       </ul>
     </td>
-    <td style="border:none"><img height="300" width="600" src=""></td>
+    <td style="border:none"><img height="200" width="500" src=""></td>
   </tr>
 </table>
 
