@@ -6,8 +6,8 @@
 <table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:none">
-      <img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=tokyonight">
-      <ul align="left">
+      <img height="350" width="450" src="https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=tokyonight">
+      <ul align="center">
         <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
         <li>Former school teacher turned yurt enthusiast 🛖 🏕</li>
       </ul>
