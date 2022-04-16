@@ -24,6 +24,7 @@
 
 
 ## Languages || Frameworks
+[![Emilys GitHub stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen)](https://github.com/emily-cathleen/github-readme-stats)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
