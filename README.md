@@ -13,7 +13,9 @@
         <li>Former school teacher turned yurt enthusiast 🛖 🏕</li>
       </ul>
     </td>
-
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=emily-cathleen&theme=nord" />
+</p>
   </tr>
 </table>
 </div>
@@ -26,9 +28,6 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) -->
 
 
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=emily-cathleen&theme=nord" />
-</p>
 
 ## Languages || Frameworks
 
