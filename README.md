@@ -26,6 +26,10 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) -->
 
 
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=emily-cathleen&theme=nord" />
+</p>
+
 ## Languages || Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
