@@ -7,15 +7,15 @@
 <table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:none">
-<!--       <img height="350" width="450" src="https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=gruvbox"> -->
+      <img height="350" width="450" src="https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=gruvbox">
       <ul align="left">
         <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
         <li>Former school teacher turned yurt enthusiast 🛖 🏕</li>
       </ul>
     </td>
-<p align="center">
+<!-- <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=emily-cathleen&theme=nord" />
-</p>
+</p> -->
   </tr>
 </table>
 </div>
