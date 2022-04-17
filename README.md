@@ -21,9 +21,6 @@
 </div>
 
 <a href="https://github.com/devonwigle/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=dark&hide_rank=true&hide=stars&count_private&show_icons=true" />
-</a>
-<a href="https://github.com/devonwigle/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emily-cathleen&theme=dark&layout=compact" />
 </a>
 
