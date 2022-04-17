@@ -20,6 +20,13 @@
 </table>
 </div>
 
+<a href="https://github.com/devonwigle/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=dark&hide_rank=true&hide=stars&count_private&show_icons=true" />
+</a>
+<a href="https://github.com/devonwigle/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emily-cathleen&theme=dark&layout=compact" />
+</a>
+
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cathleencorcoran@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-corcoran-01b87521b/)
