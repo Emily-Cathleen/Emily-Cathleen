@@ -2,7 +2,7 @@
   ### Welcome! 
 
 ### My name is Emily Corcoran, and I am currently a Front End Engineering Student at the Turing School of Software and Design
-<div align="center">
+<div>
 </table>
 <table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
   <tr>
