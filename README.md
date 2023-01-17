@@ -3,6 +3,8 @@
 
 ### My name is Emily Corcoran and I am a certified Front-End Engineer from the Turing School of Software & Design
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&show_icons=true&theme=radical)
+
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cathleencorcoran@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-corcoran-01b87521b/)
