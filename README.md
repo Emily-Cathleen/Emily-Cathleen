@@ -1,7 +1,7 @@
 
-  ### Welcome! 
+<h1><img src="https://user-images.githubusercontent.com/35410545/159790574-40fbacee-ec50-43d2-8a47-543c97857971.gif" width="30px"> Hey There! </h1>
 
-### My name is Emily Corcoran, and I am currently a Front End Engineering Student at the Turing School of Software and Design
+### My name is Emily Corcoran, and I am a certified Front-End Engineer from the Turing School of Software & Design
 <div>
 </table>
 <table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
