@@ -5,7 +5,8 @@
 
 ### My name is Emily Corcoran and I am a certified Front-End Engineer from the Turing School of Software & Design
 
-![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&show_icons=true&theme=radical)
+<a![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&show_icons=true&theme=radical)</a>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emily-cathleen)](https://github.com/emily-cathleen/github-readme-stats)
 
 ## Contact Me
