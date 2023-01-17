@@ -7,7 +7,7 @@
 <table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:none">
-      <img height="350" width="450" src="https://github-readme-stats.vercel.app/api?username=emily-cathleen&theme=gruvbox">
+      <img height="350" width="450" src=![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emily-Cathleen)](https://github.com/Emily-Cathleen/github-readme-stats)>
       <ul align="left">
         <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
         <li>Former school teacher turned yurt enthusiast 🛖 🏕</li>
