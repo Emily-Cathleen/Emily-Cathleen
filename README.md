@@ -73,4 +73,5 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
+[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&show_icons=true&theme=synthwave)](https://github.com/emily-cathleen/github-readme-stats)
 </div>
