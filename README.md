@@ -2,27 +2,6 @@
 <h1><img src="https://user-images.githubusercontent.com/35410545/159790574-40fbacee-ec50-43d2-8a47-543c97857971.gif" width="30px"> Hey There! </h1>
 
 ### My name is Emily Corcoran, and I am a certified Front-End Engineer from the Turing School of Software & Design
-<div>
-</table>
-<table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border:none">
-      <img height="350" width="450" src=[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen)](https://github.com/emily-cathleen/github-readme-stats)
-      <ul align="left">
-        <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
-        <li>Former school teacher turned yurt enthusiast 🛖 🏕</li>
-      </ul>
-    </td>
-<!-- <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=emily-cathleen&theme=nord" />
-</p> -->
-  </tr>
-</table>
-</div>
-
-<a href="https://github.com/devonwigle/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emily-cathleen&theme=dark&layout=compact" />
-</a>
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cathleencorcoran@gmail.com)
