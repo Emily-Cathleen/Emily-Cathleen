@@ -3,7 +3,7 @@
 
 ### My name is Emily Corcoran and I am a certified Front-End Engineer from the Turing School of Software & Design
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&show_icons=true&theme=radical)
+![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&show_icons=true&theme=radical)
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cathleencorcoran@gmail.com)
@@ -12,7 +12,6 @@
 
 <!-- Checkout What I'm Listening to: 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) -->
-
 
 
 ## Languages || Frameworks
@@ -53,6 +52,4 @@
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-
-[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emily-cathleen&show_icons=true&theme=synthwave)](https://github.com/emily-cathleen/github-readme-stats)
 </div>
